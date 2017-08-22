@@ -3,4 +3,7 @@
 
 public class Carta 
 
-private 
+private int valor
+private String naipe
+
+
