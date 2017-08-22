@@ -1,4 +1,4 @@
-// Card.java - John K. Estell - 8 May 2003 teste
+// Card.java - John K. Estell - 8 May 2003 teste2
 // last modified: 23 Febraury 2004
 // Implementation of a playing card.  Uses classes Rank and Suit for
 // expressing the card value.
