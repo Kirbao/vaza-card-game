@@ -1,9 +1,10 @@
 // Treinamento Java, carta de um baralho
 // Everton Menor 22 de agosto 2017
 
-public class Carta 
+public class Carta {
 
-private int valor
-private String naipe
+private int valor;
+private String naipe;
 
 
+}
