@@ -8,7 +8,11 @@ private String naipe;
 
 //contrutor
   
-// (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Rainha, Rei, Ás e Valete)
-// (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Valete, Rainha, Rei, Ás)
+// (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Rainha, Rei, As, Valete)
+// (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Valete, Rainha, Rei, As)
+// (Copa, Ouro, Paus, Espada)
+  
+//List/
+  
   
 }
