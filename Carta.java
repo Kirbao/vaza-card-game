@@ -7,12 +7,16 @@ private int valor;
 private String naipe;
 
 //contrutor
-  
+public Carta(int cartaValor, String cartaNaipe){
+  valor= cartaValor;
+  naipe= cartaNaipe;
+}
+
+//List
 // (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Rainha, Rei, As, Valete)
 // (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Valete, Rainha, Rei, As)
 // (Copa, Ouro, Paus, Espada)
   
-//List/
-  
+
   
 }
