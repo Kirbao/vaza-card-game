@@ -11,7 +11,21 @@ public Carta(int cartaValor, String cartaNaipe){
   valor= cartaValor;
   naipe= cartaNaipe;
 }
+  
+//métodos
+public metodoOne() {
+  
+}
 
+public metodoTwo() {
+
+}
+
+public metodoThree() {
+  
+}  
+  
+  
 //List
 // (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Rainha, Rei, As, Valete)
 // (Dois, Tres, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Valete, Rainha, Rei, As)
